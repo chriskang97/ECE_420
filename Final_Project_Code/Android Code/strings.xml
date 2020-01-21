@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ECE420: Final Project</string>
+    <string name="control_button">START</string>
+    <string name="croppedFace"><u>Cropped Face</u></string>
+    <string name="edgeDetect"><u>Edge Detect Canny</u></string>
+    <string name="tempResult">Threat Level: NA</string>
+</resources>
